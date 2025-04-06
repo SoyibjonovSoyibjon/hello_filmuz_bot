@@ -3,7 +3,7 @@ from aiogram import Dispatcher, Bot
 
 from app import handlers as hls
 
-bot= Bot(token="7710418619:AAHsTjz0AM7JvUXmXgmi1YF2EmZMgwgHZeg")
+bot= Bot(token="7710418619:AAGEAdSdMEUIOzDYHAeRvM--Q5cElwGQXng")
 
 async def run():
     dp= Dispatcher()
